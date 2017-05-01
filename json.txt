@@ -1,0 +1,7 @@
+ {  
+      "name" : "doğukan" , "lastname" : "yılmaz" ,  "age" : "21"  
+      },  
+      {  
+      "name" : "ahmet" ,   "lastname" : "demir" ,   "age" : "30"  
+   }
+ 
